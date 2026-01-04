@@ -1,1 +1,2 @@
-# Project Title
+# cloudflare-hono-waitlist-template
+
